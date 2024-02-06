@@ -1,0 +1,33 @@
+/*
+
+Add styles or override variables from the theme here.
+
+*/
+
+// Set to IEEE blue
+$primary: #006699;
+
+// Set to Custom Font
+$google_font_name: "Inter";
+$google_font_family: "Inter:wght@100;200;300;400;500;600;700;800;900";
+
+// disable right hand site links
+.td-page-meta--view {
+    display: none !important;
+}
+
+.td-page-meta--edit {
+    display: none !important;
+}
+
+.td-page-meta--child {
+    display: none !important;
+}
+
+.td-page-meta--issue {
+    display: none !important;
+}
+
+.td-page-meta--project-issue {
+    display: none !important;
+}
