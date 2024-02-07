@@ -284,7 +284,7 @@ menu: {main: {weight: 100}}
 
 {{< card
     title="Yu Zhang"
-    subtitle="Google"
+    subtitle="OpenAI"
     >}}
     <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
 {{< /card >}}
