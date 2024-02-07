@@ -19,6 +19,10 @@ menu: {main: {weight: 100}}
     >}}
     <img src="../img/organizing-committee/honorary-chair/haizhou-li.jpg" style="width:180px;" />
 {{< /card >}}
+{{< card >}}
+{{< /card >}}
+{{< card >}}
+{{< /card >}}
 {{< /cardpane >}}
 
 
@@ -32,6 +36,10 @@ menu: {main: {weight: 100}}
     style="width: 300px;"
     >}}
     <img src="../img/organizing-committee/general-chairs/zhizheng-wu.jpg" style="width:180px;" />
+{{< /card >}}
+{{< card >}}
+{{< /card >}}
+{{< card >}}
 {{< /card >}}
 {{< /cardpane >}}
 
@@ -126,6 +134,8 @@ menu: {main: {weight: 100}}
     >}}
     <img src="../img/organizing-committee/technical-program-chairs/sakriani-sakti.jpg" style="width:180px;" />
 {{< /card >}}
+{{< card >}}
+{{< /card >}}
 {{< /cardpane >}}
 
 
@@ -145,6 +155,8 @@ menu: {main: {weight: 100}}
     subtitle="Chinese University of Hong Kong, Shenzhen"
     >}}
     <img src="../img/organizing-committee/finance-chairs/liumeng-xue.png" style="width:180px;" />
+{{< /card >}}
+{{< card >}}
 {{< /card >}}
 {{< /cardpane >}}
 
@@ -219,6 +231,8 @@ menu: {main: {weight: 100}}
     subtitle="Chinese University of Hong Kong, Shenzhen"
     >}}
     <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+{{< /card >}}
+{{< card >}}
 {{< /card >}}
 {{< /cardpane >}}
 
@@ -321,6 +335,8 @@ menu: {main: {weight: 100}}
     >}}
     <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
 {{< /card >}}
+{{< card >}}
+{{< /card >}}
 {{< /cardpane >}}
 
 
@@ -328,13 +344,6 @@ menu: {main: {weight: 100}}
 <h1> Publicity Chairs </h1>
 <br>
 {{< cardpane >}}
-{{< card
-    title="Siqi Cai"
-    subtitle="National University of Singapore"
-    >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
-{{< /card >}}
-
 {{< card
     title="Ozlem Kalini"
     subtitle="Meta"
@@ -348,9 +357,30 @@ menu: {main: {weight: 100}}
     >}}
     <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
 {{< /card >}}
+
+{{< card
+    title="Xixin Wu"
+    subtitle="National University of Singapore"
+    >}}
+    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+{{< /card >}}
 {{< /cardpane >}}
 
 {{< cardpane >}}
+{{< card
+    title="Siqi Cai"
+    subtitle="National University of Singapore"
+    >}}
+    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+{{< /card >}}
+
+{{< card
+    title="Zhengjun Yue"
+    subtitle="Delft University of Technology"
+    >}}
+    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+{{< /card >}}
+
 {{< card
     title="Jennifer Williams"
     subtitle="University of Southampton"
@@ -358,12 +388,6 @@ menu: {main: {weight: 100}}
     <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
 {{< /card >}}
 
-{{< card
-    title="Xixin Wu"
-    subtitle="Chinese University of Hong Kong"
-    >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
-{{< /card >}}
 {{< /cardpane >}}
 
 
@@ -376,6 +400,10 @@ menu: {main: {weight: 100}}
     subtitle="Apple"
     >}}
     <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+{{< /card >}}
+{{< card >}}
+{{< /card >}}
+{{< card >}}
 {{< /card >}}
 {{< /cardpane >}}
 
