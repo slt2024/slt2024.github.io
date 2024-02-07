@@ -23,7 +23,7 @@ We are excited to welcome you to
 
 the 2024 IEEE Spoken Language Technology Workshop (IEEE SLT 2024) 
 
-held from 9<sup>th</sup> -- 12<sup>th</sup> December 2024 at the Macau SAR, China.
+held from 2<sup>nd</sup> -- 5<sup>th</sup> December 2024 at the Macau SAR, China.
 {{% /blocks/lead %}}
 
 <!--
