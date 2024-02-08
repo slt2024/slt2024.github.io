@@ -213,24 +213,30 @@ menu: {main: {weight: 100}}
     <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
 {{< /card >}}
 {{< /cardpane >}}
-
+{{< cardpane >}}
+{{< card
+    title="Cunhang Fan"
+    subtitle="Anhui University"
+    >}}
+    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+{{< /card >}}
+{{< card >}}
+{{< /card >}}
+{{< card >}}
+{{< /card >}}
+{{< /cardpane >}}
 
 <br><br>
 <h1> Local Arrangements Chairs </h1>
 <br>
 {{< cardpane >}}
 {{< card
-    title="Hou Pong Chan"
-    subtitle="University of Macau"
-    >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
-{{< /card >}}
-
-{{< card
     title="Emily Yao"
     subtitle="Chinese University of Hong Kong, Shenzhen"
     >}}
     <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+{{< /card >}}
+{{< card >}}
 {{< /card >}}
 {{< card >}}
 {{< /card >}}
