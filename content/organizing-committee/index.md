@@ -52,21 +52,21 @@ menu: {main: {weight: 100}}
     title="Eng Siong Chng"
     subtitle="Nanyang Technological University"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/general-chairs/eng-siong-chng.png" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Esther Judd-Klabbers"
     subtitle="ReadSpeaker"
     >}}
-    <img src="../img/organizing-committee/general-chairs/esther-klabbers.jpg" style="width:180px;" />
+    <img src="../img/organizing-committee/general-chairs/esther-judd-klabbers.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Derek Wong"
     subtitle="University of Macau"
     >}}
-    <img src="../img/organizing-committee/general-chairs/derek-wong.jpg" style="width:180px;" />
+    <img src="../img/organizing-committee/general-chairs/derek-wong.png" style="width:180px;" />
 {{< /card >}}
 {{< /cardpane >}}
 
@@ -102,7 +102,7 @@ menu: {main: {weight: 100}}
     title="Hung-yi Lee"
     subtitle="National Taiwan University"
     >}}
-    <img src="../img/organizing-committee/technical-program-chairs/hungyi-lee.jpg" style="width:180px;" />
+    <img src="../img/organizing-committee/technical-program-chairs/hungyi-lee.png" style="width:180px;" />
 {{< /card >}}
 
 {{< card
@@ -147,7 +147,7 @@ menu: {main: {weight: 100}}
     title="Yan Wu"
     subtitle="Institute for Infocomm Research"
     >}}
-    <img src="../img/organizing-committee/finance-chairs/yan-wu.jpg" style="width:180px;" />
+    <img src="../img/organizing-committee/finance-chairs/yan-wu.png" style="width:180px;" />
 {{< /card >}}
 
 {{< card
@@ -176,14 +176,14 @@ menu: {main: {weight: 100}}
     title="Lei Xie"
     subtitle="Northwestern Polytechnical University"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/sponsorship-chairs/lei-xie.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Chao Zhang"
     subtitle="Tsinghua University"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/sponsorship-chairs/chao-zhang.jpg" style="width:180px;" />
 {{< /card >}}
 {{< /cardpane >}}
 
@@ -196,21 +196,21 @@ menu: {main: {weight: 100}}
     title="Yanfeng Lu"
     subtitle="Institute for Infocomm Research"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/publication-chairs/yanfeng-lu.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Shuai Wang"
     subtitle="Shenzhen Research Institute of Big Data"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/publication-chairs/shuai-wang.png" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Xinyuan Qian"
     subtitle="University of Science and Technology Beijing"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/publication-chairs/xinyuan-qian.png" style="width:180px;" />
 {{< /card >}}
 {{< /cardpane >}}
 {{< cardpane >}}
@@ -218,7 +218,7 @@ menu: {main: {weight: 100}}
     title="Cunhang Fan"
     subtitle="Anhui University"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/publication-chairs/cunhang-fan.jpg" style="width:180px;" />
 {{< /card >}}
 {{< card >}}
 {{< /card >}}
@@ -251,21 +251,21 @@ menu: {main: {weight: 100}}
     title="Xie Chen"
     subtitle="Shanghai Jiaotong University"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/invited-speaker-chairs/xie-chen.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Lei Wang"
     subtitle="Huawei"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/invited-speaker-chairs/lei-wang.png" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Zhiyong Wu"
     subtitle="Tsinghua University"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/invited-speaker-chairs/zhiyong-wu.jpg" style="width:180px;" />
 {{< /card >}}
 {{< /cardpane >}}
 
@@ -278,21 +278,21 @@ menu: {main: {weight: 100}}
     title="Xu Tan"
     subtitle="Microsoft"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/industry-talk-chairs/xu-tan.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Rong Tong"
     subtitle="Singapore Institute of Technology"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/industry-talk-chairs/rong-tong.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Yu Zhang"
     subtitle="OpenAI"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/industry-talk-chairs/yu-zhang.jpg" style="width:180px;" />
 {{< /card >}}
 {{< /cardpane >}}
 
@@ -305,21 +305,21 @@ menu: {main: {weight: 100}}
     title="Jun Du"
     subtitle="University of Science and Technology of China"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/challenge-and-demonstration-chairs/jun-du.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Kyu Jeong Han"
     subtitle="Amazon"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/challenge-and-demonstration-chairs/kyu-jeong-han.png" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Wei Xue"
     subtitle="Hong Kong University of Science and Technology"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/challenge-and-demonstration-chairs/wei-xue.jpg" style="width:180px;" />
 {{< /card >}}
 {{< /cardpane >}}
 
@@ -332,14 +332,14 @@ menu: {main: {weight: 100}}
     title="Berrak Sisman"
     subtitle="University of Texas at Dallas"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/diversity-and-inclusion-chairs/berrak-sisman.png" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Li Liu"
     subtitle="Hong Kong University of Science and Technology, Guangzhou"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/diversity-and-inclusion-chairs/li-liu.png" style="width:180px;" />
 {{< /card >}}
 {{< card >}}
 {{< /card >}}
@@ -354,21 +354,21 @@ menu: {main: {weight: 100}}
     title="Ozlem Kalini"
     subtitle="Meta"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/publicity-chairs/ozlem-kalini.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Zhenhua Ling"
     subtitle="University of Science and Technology of China"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/publicity-chairs/zhenhua-ling.png" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Xixin Wu"
     subtitle="National University of Singapore"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/publicity-chairs/xixin-wu.jpg" style="width:180px;" />
 {{< /card >}}
 {{< /cardpane >}}
 
@@ -377,21 +377,21 @@ menu: {main: {weight: 100}}
     title="Siqi Cai"
     subtitle="National University of Singapore"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/publicity-chairs/siqi-cai.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Zhengjun Yue"
     subtitle="Delft University of Technology"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/publicity-chairs/zhengjun-yue.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Jennifer Williams"
     subtitle="University of Southampton"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/publicity-chairs/jennifer-williams.png" style="width:180px;" />
 {{< /card >}}
 
 {{< /cardpane >}}
@@ -405,7 +405,7 @@ menu: {main: {weight: 100}}
     title="Sibel Oyman"
     subtitle="Apple"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/sltc-liaison/sibel-oyman.png" style="width:180px;" />
 {{< /card >}}
 {{< card >}}
 {{< /card >}}
@@ -452,14 +452,14 @@ menu: {main: {weight: 100}}
     title="Satoshi Nakamura"
     subtitle="Nara Institute of Science and Technology"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/advisory-board/satoshi-nakamura.jpg" style="width:180px;" />
 {{< /card >}}
 
 {{< card
     title="Odette Scharenborg"
     subtitle="Delft University of Technology"
     >}}
-    <img src="../img/organizing-committee/blank-profile.png" style="width:180px;" />
+    <img src="../img/organizing-committee/advisory-board/odette-scharenborg.jpg" style="width:180px;" />
 {{< /card >}}
 {{< /cardpane >}}
 
