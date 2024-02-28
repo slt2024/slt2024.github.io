@@ -183,7 +183,7 @@ menu: {main: {weight: 100}}
     title="Chao Zhang"
     subtitle="Tsinghua University"
     >}}
-    <img src="../img/organizing-committee/sponsorship-chairs/chao-zhang.jpg" style="width:180px;" />
+    <img src="../img/organizing-committee/sponsorship-chairs/chao-zhang.png" style="width:180px;" />
 {{< /card >}}
 {{< /cardpane >}}
 
